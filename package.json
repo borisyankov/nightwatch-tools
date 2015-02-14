@@ -1,0 +1,19 @@
+{
+  "name": "nightwatch-tools",
+  "version": "0.1.0",
+  "description": "Tools for Nightwatch.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borisyankov/nightwatch-tools"
+  },
+  "author": "Boris Yankov <borisyankov@gmail.com> (https://github.com/borisyankov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borisyankov/nightwatch-tools/issues"
+  },
+  "homepage": "https://github.com/borisyankov/nightwatch-tools"
+}
