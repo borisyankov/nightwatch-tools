@@ -22,8 +22,8 @@ exports.randomEmail = function () {
     return randomStringLowercase(10) + '@' + randomStringLowercase(10) + '.com';
 };
 
-exports.LOREM_IPSUM = {
-    ORIGINAL: 'Lorem ipsum dolor sit amet, etiam sensibus senserit at eos, ut eam ludus sensibus dissentias, homero volumus consulatu pri ad. Iudicabit signiferumque an vel, ne est esse consul platonem. Et vel electram efficiendi, eu vel autem error graecis, ad perfecto postulant interesset duo. Consul essent repudiandae ad vix. Affert expetenda gubergren eum no, prima mollis ius an. Pro putant similique moderatius ut, ad quo postea vituperata. Paulo tractatos te eam.',
+exports.TEXT = {
+    LOREM_IPSUM: 'Lorem ipsum dolor sit amet, etiam sensibus senserit at eos, ut eam ludus sensibus dissentias, homero volumus consulatu pri ad. Iudicabit signiferumque an vel, ne est esse consul platonem. Et vel electram efficiendi, eu vel autem error graecis, ad perfecto postulant interesset duo. Consul essent repudiandae ad vix. Affert expetenda gubergren eum no, prima mollis ius an. Pro putant similique moderatius ut, ad quo postea vituperata. Paulo tractatos te eam.',
     CYRILLIC: 'Ад вэл квюод кашы аппэльлььантюр, ыт дуо алёа эуежмод, лебыр дольор адепйжкйнг кюм ут. Экз льюкяльиюч янтэрэсщэт векж. Дёко заэпы кюм эю, ут ютенам нощтыр партйэндо еюж. Аппэтырэ пэркёпитюр экз вяш, жэмпэр янжольэнж ад дуо, зыд попюльо омйттам ут. Квуй адхюк оффэндйт дигнижжим эю, пэр ты вёвындо оффэндйт. Ат факэр адмодум ыам, ыт эож ийжквюы модыратиюз, ючю йн эвэртё пожйдонёюм.',
     GREEK: 'Εαμ εραντ μεδιοσρεμ εα. Νεμωρε περτιναξ ευ φελ, εαμ κυωδ λυδυς ελεστραμ εα. Διαμ σινθ μαζιμ ηας αδ. Ορατιο εξερσι ιν εαμ, ατ πρινσιπες υλλαμσορπερ κυο. Ατ ταντας δισυντ φολυπθυα φιμ, ετ ελιτρ λαβωραμυς ρεπριμικυε εσθ.',
     HINDI: 'होगा चिदंश अमितकुमार विश्वव्यापि वर्णित प्राथमिक व्याख्यान करते विवरन चाहे कराना निरपेक्ष मुश्किले संपादक हुआआदी करेसाथ ध्येय हैं। लगती विकास खरिदने ब्रौशर निर्माण सुचना रखते हुएआदि आशाआपस व्यवहार कुशलता सभीकुछ पुष्टिकर्ता कार्य रखते',
